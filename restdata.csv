@@ -1,0 +1,51 @@
+Restaurant Name ,Michelin ,# of Michelin Stars,Michelin Guide,Latitude,Longitude ,City,Address,Cuisine,What they're known for ,Yelp Rating,# of Yelp Reviews,Google Review,# of Google Reviews,My Rating,$$$$$$ (acc to Michelin),Monday Hours,Tuesday Hours,Wednesday Hours,Thursday Hours,Friday Hours,Saturday Hours,Sunday Hours,Big Family Dinner,Celebratory Dinner,Give a Guest A Glimpse of the City,Business Meeting ,Food As An Experience,Birthday Dinner,Date Night,Casual Dinner,Mom and Pop,Does the Job,Reservation Platform,Dish They Are Known For ,Neighborhood,Bar,Dress Code,Kids Menu,Vegetarian Friendly?,Vegan Friendly?,Complimentary Dessert,Scenic Location,Near Sightseeing,Good for Takeout,Experimental Food,Noise Level,Kid Friendly ,Large Group Friendly,Safe Neighborhood,Portion Sizes,Theme,Age Demographic,color scheme ,bulding style,notes,Owner,Chef,other,reservations?,Good for?
+Dumpling Home,1,1,0,37.77587559,-122.4226468,San Francisco,"298 Gough St
+San Francisco, CA
+94102",Chinese,Dim Sum,4.5,1687,4.6,1178,,$$,"11:30 AM–2:15 PM, 5–8:15 PM","11:30 AM–2:15 PM, 5–8:15 PM","11:30 AM–2:15 PM, 5–8:15 PM","11:30 AM–2:15 PM, 5–8:15 PM","11:30 AM–2:15 PM, 5–8:45 PM","11:30 AM–2:15 PM, 5–8:45 PM","11:30 AM–2:15 PM, 5–8:15 PM",0,0,0,0,1,0,0,1,1,0,N/A,Juicy Pork Bao,Hayes Valley,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0.5,"simple, calm artwork",17-35,"brown wood & black; Neutral and light: Beige, white, light wood",traditional; Modern and minimalist,,,,,No Reservations,
+Nari,1,1,0,37.78557957,-122.4287244,San Francisco,"1625 Post St
+San Francisco, CA
+94115",Thai,"Squid and Pork Jowl
+Gaeng Bumbai Aubergine",4,507,4.4,414,,$$$$,5:30–9 PM,5:30–9 PM,5:30–9 PM,5:30–9 PM,5:30–9:15 PM,5:30–9:15 PM,5:30–9 PM,0,1,0,1,0,1,1,0,0,0,Resy,,Pacific Heights,1,0.75,0,1,0,1,0,1,0,1,0.5,0.5,1,1,0,business; celebration,28+,"black; Earthy and vibrant;  Earthy green, gold, dark wood",modern; Contemporary upscale,"spicy 
+make special birthday meu",Pim Techamuanvivit,Pim Techamuanvivit,Located in Hotel Kabuki,,Ethnic families (who like spicy)
+Kin Khao,1,1,0,37.7854442,-122.4093739,San Francisco,"55 Cyril Magnin St.
+San Francisco, CA
+94102",Thai,Khun Yai's Rabbit Green Curry,3.9,2535,4.3,1796,,$$$,"11:30 AM-2 PM
+5:30 PM-9 PM","11:30 AM-2 PM
+5:30 PM-9 PM","11:30 AM-2 PM
+5:30 PM-9 PM","11:30 AM-2 PM
+5:30 PM-9 PM","""11:30 AM-2 PM
+5:30 PM-10 PM","""11:30 AM-2 PM
+5:30 PM-10 PM","11:30 AM-2 PM
+5:30 PM-9 PM",1,0,1,1,0,0,1,0,0,0,Resy,,Financial District,1,0.25,0,1,0,0,0,1,1,1,1,0.5,0,1,0.5,,28+,"wood and black; Bold and colorful; Red, orange, black",Modern chic,,Pim Techamuanvivit,Pim Techamuanvivit,Located in Parc 55,,
+Flores,1,1,0,37.79779834,-122.4325001,San Francisco,"2030 Union St
+San Francisco, CA 
+94123",Mexican,,4,1113,4.4,1055,,$$,11:30 AM–9:30 PM,11:30 AM–9:30 PM,11:30 AM–9:30 PM,11:30 AM–9:30 PM,11:30 AM–10:30 PM,11 AM–10:30 PM,11 AM–9:30 PM,1,0,0,0,0,0,0,0,0,1,OpenTable,Drinks,Pacific Heights,1,0,1,1,1,1,0,0,1,0,1,1,1,1,0,,"families, adults, groups, 10+","Warm and festive; Warm yellow, terracotta, teal","Mexican rustic-modern, with warm wooden tones, tiles",,,,,OpenTable,
+Mensho,0,0,1,37.79199481,-122.4137109,San Francisco,"672 Geary St
+San Francisco, CA 
+94102",Japanese,Ramen,4.1,3092,4.5,2537,,$$,5–10 PM,5–10 PM,5–10 PM,5–10 PM,4–11 PM,4–11 PM,4–10 PM,0,0,0,0,0,0,0,1,0,1,N/A,,Tenderloin,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,,20-30,"Minimalist black and white; Black, white, gray","Japanese modern, minimalist",alotted one hour,,,,no reservations,
+Cotogna,0,0,1,37.79760635,-122.4035652,San Francisco,"490 Pacific Ave
+San Francisco, CA
+94133",Italian,,4.1,2087,4.6,1798,,$$$,4:30–9 PM,4:30–9 PM,11:30 AM–9 PM,11:30 AM–9 PM,11:30 AM–9 PM,11:30 AM–9 PM,CLOSED,0,0,0,1,1,1,1,0,0,0,Google,Corn Triangoli,North Beach ,1,0.5,0,1,0,1,0,0,1,1,0.5,0.5,1,1,0.5,blonde wood & greenery,26-36,"Rustic and warm; Brown, olive green, cream","Rustic Italian, with wooden and earthy tones",everything on their menu is unique - literally,,,,,
+Hog Island Oyster Co.,0,0,1,37.79617066,-122.3934361,San Francisco,"1 Ferry Bldg Ste 11 
+San Francisco, CA
+94111",Seafood,Oysters!,4.4,7309,4.6,3279,,$$$,11:30 AM–8 PM,11:30 AM–8 PM,11:30 AM–8 PM,11:30 AM–8 PM,11:30 AM–8 PM,11 AM–8 PM,11 AM–8 PM,0,0,1,1,1,1,1,0,0,0,N/A,,Embarcadero,1,0.25,1,0,0,0,1,1,0,0,1,1,1,1,0.5,,10+,"Nautical blue and white; Navy blue, white, seafoam green","Nautical-industrial; lots of natural light, open spaces",in the Ferry Building,,,,,Out of town guests
+Comal ,1,1,0,37.87201819,-122.2689415,Berkeley,"2020 Shattuck Ave.
+Berkeley, CA
+94704",Mexican,,3.4,1442,4.4,1365,,$$,5–9 PM,5–9 PM,5–9 PM,5–10 PM,CLOSED,5–10 PM,5–9 PM,1,0,1,1,0,0,0,0,0,0,OpenTable,,Downtown Berkeley,1,0.5,1,1,1,0,1,1,1,0,0.5,1,1,0,1,,10+,"Bright and colorful; Bright orange, turquoise, brown",Contemporary Mexican w vibrant colors,,,,,,
+Vik's Chaat,0,0,1,37.8616091,-122.2980449,Berkeley,"2390 Fourth St
+Berkeley, CA 
+94710",Indian,Dosa,3.9,2960,4.2,3995,,$,"11 AM–2:30 PM, 5–7:30 PM","11 AM–2:30 PM, 5–7:30 PM","11 AM–2:30 PM, 5–7:30 PM","11 AM–2:30 PM, 5–7:30 PM",11 AM–7:30 PM,11 AM–7:30 PM,11 AM–7:30 PM,1,0,0,0,1,0,0,1,1,0,N/A,,Berkeley Marina,0,0,0,1,1,0,0,0,1,0,0,1,1,1,1,,"10+, families, all ages","Vibrant and industrial; Red, yellow, industrial gray","Casual industrial, located in a warehouse-style space",also a grocery store,,,,,
+Sorella,0,0,1,37.79399642,-122.4212579,San Francisco,"1760 Polk St
+San Francisco, CA
+94109",Italian,,4.3,251,4.5,216,,$$$,closed,5:30 PM-9:30 PM,5:30 PM-9:30 PM,5:30 PM-9:30 PM,5:30 PM-9:30 PM,5:30 PM-9:30 PM,closed,0,1,0,1,0,1,1,0,0,1,OpenTable,Tiramisu,North Beach,1,0.5,0,1,0,1,0,0,0,0,0.5,0.5,1,1,0.5,"classy, elegant",middle aged adults (26-35),"Neutral and modern; White, beige, soft gold"," Italian, with sleek, upscale interiors, warm lightin",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0 - casual,,,,,,,,,,0- no ,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.5 - dressy,,,,,,,,,,0.5 - maybe,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1 - formal,,,,,,,,,,1- yes,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,https://domino.ai/blog/clustering-in-r,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,Hierarchical clustering in R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
